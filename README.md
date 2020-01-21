@@ -8,7 +8,7 @@ A prompt inspired by @mathiasbynens's [prompt]
 
 ## Install
 
-With [fisherman]
+With [fisher]
 
 ```fish
 fisher neekipatel/fish-simple
