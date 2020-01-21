@@ -1,0 +1,2 @@
+# fish-simple
+Simple Prompt
