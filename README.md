@@ -19,11 +19,8 @@ fisher neekipatel/fish-simple
 + [Tomorrow Night Eighties.itermcolors]
 + Non-ASCII Font: 14pt [FiraCode]
 
-[slack-link]: https://fisherman-wharf.herokuapp.com
-[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
-
-[fisherman]: https://github.com/fisherman/fisherman
+[fisher]: https://github.com/jorgebucaran/fisher
 [prompt]: https://github.com/mathiasbynens/dotfiles/blob/master/.bash_prompt
 
 [FiraCode]: https://github.com/tonsky/FiraCode
-[Tomorrow Night Eighties.itermcolors]: https://github.com/sotayamashita/simple/blob/master/Tomorrow%20Night%20Eighties.itermcolors
+[Tomorrow Night Eighties.itermcolors]: https://github.com/neekipatel/fish-simple/blob/master/Tomorrow%20Night%20Eighties.itermcolors
