@@ -1,5 +1,3 @@
-[![Slack Room][slack-badge]][slack-link]
-
 # Simple
 
 > "Simple can be harder than complex" - Steve Jobs
@@ -13,7 +11,7 @@ A prompt inspired by @mathiasbynens's [prompt]
 With [fisherman]
 
 ```fish
-fisher simple
+fisher neekipatel/fish-simple
 ```
 
 ## Terminal Settings
